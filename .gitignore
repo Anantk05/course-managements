@@ -1,0 +1,11 @@
+.idea/
+.gradle/
+build/
+.gradle/
+gradle-wrapper.jar
+gradle-wrapper.properties
+gradlew
+gradlew.bat
+*.iml
+*.class
+*.log
